@@ -1,6 +1,6 @@
 {
     "name": "KESHAVxMUSIC",
-    "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
+    "description": "A VC Player Bot for telegram videochats🇮🇳
     "logo": "https://telegra.ph/file/6d177df2087bbd3f8c6c4.jpg",
     "keywords": [
     "python3",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/DevilsHeavenMF",
+        "value": "https://t.me/ll_chit_chat_ll",
         "required": false
       }
     },
@@ -53,9 +53,9 @@
           },
           {
               "url": "heroku/nodejs"
-          },
+        
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://t.me/ll_Chit_Chat_ll"
           }
       ],
       "stack": "container"
